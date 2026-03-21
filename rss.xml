@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>The Armoury Blog — Arsenal FC News, Tactics &amp; Culture</title>
+    <link>https://thearmoury.blog/</link>
+    <description>Independent Arsenal FC blog covering match reports, transfer news, tactics, club history and fan opinion.</description>
+    <language>en-gb</language>
+    <copyright>© 2026 The Armoury Blog</copyright>
+    <managingEditor>editor@thearmoury.blog (The Armoury Blog)</managingEditor>
+    <webMaster>webmaster@thearmoury.blog (The Armoury Blog)</webMaster>
+    <lastBuildDate>Thu, 19 Mar 2026 20:00:00 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <image>
+      <url>https://thearmoury.blog/images/logo.png</url>
+      <title>The Armoury Blog</title>
+      <link>https://thearmoury.blog/</link>
+      <width>200</width>
+      <height>60</height>
+    </image>
+    <atom:link href="https://thearmoury.blog/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Arsenal 3–1 Chelsea: Saka Masterclass Seals Derby Bragging Rights</title>
+      <link>https://thearmoury.blog/posts/arsenal-3-1-chelsea-match-report.html</link>
+      <guid isPermaLink="true">https://thearmoury.blog/posts/arsenal-3-1-chelsea-match-report.html</guid>
+      <pubDate>Thu, 19 Mar 2026 18:30:00 +0000</pubDate>
+      <dc:creator>Jamie Whitfield</dc:creator>
+      <category>Match Reports</category>
+      <description><![CDATA[Bukayo Saka was simply unplayable at the Emirates as Arsenal dismantled Chelsea to extend their Premier League lead to five points. Full match report and analysis.]]></description>
+    </item>
+
+    <item>
+      <title>How Arteta's 4-3-3 Has Evolved Into the Most Fluid System in the Premier League</title>
+      <link>https://thearmoury.blog/posts/arteta-4-3-3-evolution.html</link>
+      <guid isPermaLink="true">https://thearmoury.blog/posts/arteta-4-3-3-evolution.html</guid>
+      <pubDate>Tue, 17 Mar 2026 09:00:00 +0000</pubDate>
+      <dc:creator>Daniel Osei</dc:creator>
+      <category>Tactics</category>
+      <description><![CDATA[From rigid positional play to a dynamic, press-heavy system — we break down the tactical evolution that has Arsenal on the cusp of a historic title.]]></description>
+    </item>
+
+    <item>
+      <title>The Bruised Banana: How Arsenal's Most Hated Kit Became a Cultural Icon</title>
+      <link>https://thearmoury.blog/posts/bruised-banana-kit-history.html</link>
+      <guid isPermaLink="true">https://thearmoury.blog/posts/bruised-banana-kit-history.html</guid>
+      <pubDate>Sat, 15 Mar 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Priya Sharma</dc:creator>
+      <category>History</category>
+      <description><![CDATA[The 1991–93 Arsenal away shirt was mocked on arrival and worshipped within a decade. The story of football's most unlikely fashion icon.]]></description>
+    </item>
+
+    <item>
+      <title>Five Realistic Transfer Targets Arsenal Must Pursue This Summer</title>
+      <link>https://thearmoury.blog/posts/summer-transfer-targets-2026.html</link>
+      <guid isPermaLink="true">https://thearmoury.blog/posts/summer-transfer-targets-2026.html</guid>
+      <pubDate>Sat, 14 Mar 2026 12:00:00 +0000</pubDate>
+      <dc:creator>Jamie Whitfield</dc:creator>
+      <category>Transfers</category>
+      <description><![CDATA[With the title race heating up, Edu and Arteta are already plotting the squad upgrades needed to sustain a Champions League challenge next season.]]></description>
+    </item>
+
+    <item>
+      <title>The Case for Bukayo Saka as the Best Right Winger in World Football</title>
+      <link>https://thearmoury.blog/posts/saka-best-in-world.html</link>
+      <guid isPermaLink="true">https://thearmoury.blog/posts/saka-best-in-world.html</guid>
+      <pubDate>Thu, 12 Mar 2026 10:00:00 +0000</pubDate>
+      <dc:creator>Aisha Mensah</dc:creator>
+      <category>Opinion</category>
+      <description><![CDATA[Numbers, moments and the intangible quality that separates Saka from every other wide player on the planet right now.]]></description>
+    </item>
+
+  </channel>
+</rss>
